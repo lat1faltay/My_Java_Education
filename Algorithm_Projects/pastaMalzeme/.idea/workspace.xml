@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ae42b4-ae87-41d0-8021-4a8941b2b494" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/HelloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/out/production/HelloJava/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1-HelloJava/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/out/production/multiDimensionalArrayDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10-MultiDimensionalArrayDemo/multiDimensionalArrayDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/out/production/stringsDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../11-StringsDemo/stringsDemo/stringsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/miniProjeAsalSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/out/production/miniProjeAsalSayi/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12-MiniProjeAsalSayi/miniProjeAsalSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/out/production/sesliHarfler/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/sesliHarfler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../13-SesliHarfler/sesliHarfler/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/mukemmelSayi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/out/production/mukemmelSayi/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../14-MukemmelSayi/mukemmelSayi/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/arkadasSayilar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/out/production/arkadasSayilar/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../15-ArkadasSayilar/arkadasSayilar/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/out/production/sayiBulma/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/sayiBulma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../16-SayıBulma/sayiBulma/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/out/production/methods/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../17-Methods/methods/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/methods2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/out/production/methods2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../18-Methods2/methods2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/19-Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/out/production/classes/CustemerManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/src/CustemerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/classes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/out/production/19-Classes/CustemerManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../19-Classes/out/production/19-Classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/2-Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/out/production/2-Variables/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/out/production/variables/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2-Variables/variables/variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/classesRecapDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/out/production/classesRecapDemo/DortIslem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/out/production/classesRecapDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/src/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20-ClassesRecapDemo/classesRecapDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/21-ClassesWithAttributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/classesWithAttributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/out/production/classesWithAttributes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/out/production/classesWithAttributes/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/out/production/classesWithAttributes/ProductManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/classesWithAttributes/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/out/production/21-ClassesWithAttributes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/out/production/21-ClassesWithAttributes/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-ClassesWithAttributes/out/production/21-ClassesWithAttributes/ProductManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/methodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/out/production/methodOverloading/DortIslem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/out/production/methodOverloading/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/src/DortIslem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../22-MethodOverloading/methodOverloading/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../23-Inheritance/inheritance/src/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/inheritanceDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/out/production/inheritanceDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/out/production/inheritanceDemo/TarimKrediManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/src/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/src/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/src/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../24-InheritanceDemo/inheritanceDemo/src/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/BaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/EmailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../25-PolymorphisimDemo/polymorphisimDemo/src/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../26-Overriding/overriding/src/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../26-Overriding/overriding/src/OgrenciKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../26-Overriding/overriding/src/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../26-Overriding/overriding/src/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../27-AbstractClasses/abstractClasses/src/ChildGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../27-AbstractClasses/abstractClasses/src/GameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../27-AbstractClasses/abstractClasses/src/ManGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../27-AbstractClasses/abstractClasses/src/WomanGameCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../28-AbstractDepo/abstractDepo/src/BaseDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../28-AbstractDepo/abstractDepo/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../28-AbstractDepo/abstractDepo/src/MySqlDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../28-AbstractDepo/abstractDepo/src/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../28-AbstractDepo/abstractDepo/src/SqlServerDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../29-Interfaces/interfaces/src/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../29-Interfaces/interfaces/src/ICustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../29-Interfaces/interfaces/src/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../29-Interfaces/interfaces/src/MySqlDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../29-Interfaces/interfaces/src/OracleCustomerDal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/datatypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/out/production/datatypes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3-DataTypes/datatypes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/IEatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/IPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/OutSourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30-InterfacesDemo/interfacesDemo/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31-StaticDemo/staticDemo/src/DatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31-StaticDemo/staticDemo/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31-StaticDemo/staticDemo/src/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31-StaticDemo/staticDemo/src/ProductValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../32-PackagesDemo/packagesDemo/src/matematik/Dortislem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../32-PackagesDemo/packagesDemo/src/matematik/Logaritma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/conditionals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/out/production/conditionals/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../4-ConditionBlocks/conditionals/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/out/production/recapDemo1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/recapDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5-RecapDemo1/recapDemo1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/out/production/switchDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../6-SwitchDemo/switchDemo/switchDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/loopDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/out/production/loopDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7-Loops/loopDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/arraysDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/out/production/arraysDemo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8-Arrays/arraysDemo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/out/production/reCapDemo2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/reCapDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-ArraysRecapDemo/reCapDemo2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/out/production/untitled/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../n'e_kadar_olan_cift_sayi_toplamı/untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NLCPU6LpMjEtzAlxUVvbIglc7v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ae42b4-ae87-41d0-8021-4a8941b2b494" name="Changes" comment="" />
+      <created>1679433952716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679433952716</updated>
+    </task>
+    <servers />
+  </component>
+</project>
