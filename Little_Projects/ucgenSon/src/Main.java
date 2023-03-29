@@ -5,35 +5,16 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Kaç sayı: ");
-        int n = scan.nextInt();
+        int a = scan.nextInt();
 
-        /*
-        for(int i = 1; i <= n; i++){
-            for(int j = 1; j <= (n-i) ;j++){
+        for(int i = 1; i <=a;i++){
+            for(int j =1; j<a;j++){
                 System.out.print(" ");
             }
-            for(int k = 1; k <= (2 * i -1); k++){
-                System.out.print("*");
-            }
-            System.out.println();
+            System.out.println("*");
 
         }
 
-
-
-*/
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= i; j++) {
-                System.out.print(" ");
-            }
-            for (int k = (2 * n - 1); k >= (2 * i + 1); k--) {
-                System.out.print("*");
-            }
-            System.out.println();
-        }
-
-
-        
 
     }
 }
