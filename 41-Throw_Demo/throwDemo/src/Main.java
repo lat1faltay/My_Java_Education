@@ -11,11 +11,24 @@ public class Main {
             System.out.println(exception.getMessage());
         }
 
+        System.out.println("Hesap bakiyesi: "+manager.getBalance());
+        System.out.println("Birinci ");
+
         try{
-            manager.withdraw(20);
+            manager.withdraw(900);
         }catch (Exception exception){
             System.out.println(exception.getMessage());
         }
+
+        System.out.println("Hesap: " + manager.getBalance());
+        System.out.println("ikinci");
+        
+        try{
+            manager.withdraw(200);
+        }catch (BalanceInsufficentException exception){
+            System.out.println(exception.getMessage());
+        }
+        System.out.println("Hesap: " + manager.getBalance());
 
 
 
