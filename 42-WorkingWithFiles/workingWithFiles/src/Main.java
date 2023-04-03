@@ -1,9 +1,11 @@
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        getFileInfo();
+        readFile();
     }
 
 
@@ -34,5 +36,19 @@ public class Main {
         }
     }
 
+    public static  void readFile() {
+        File file = new File("C:\\java_edu\\files\\students.txt");
+        try {
+            Scanner reader = new Scanner(file);
+            while(reader.hasNextLine()){
+                String line = reader.nextLine();
+                System.out.println(line);
+            }
+            reader.close();
+
+        }catch (FileNotFoundException exception){
+            exception.printStackTrace();
+        }
+    }
 
 }
