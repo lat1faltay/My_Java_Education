@@ -2,6 +2,7 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 
 public class Main {
 
@@ -17,9 +18,17 @@ public class Main {
             connection = helper.getConncetion();
             statement = connection.createStatement();
             resultSet = statement.executeQuery("select Code,Name,Continent,Region from country");
-            while(resultSet.next()){
-                System.out.println(resultSet.getString("Name"));
+            ArrayList<Country> countries = new ArrayList<Country>();
+            while (resultSet.next()) {
+                countries.add(new Country(
+                        resultSet.getString("Code"),
+                        resultSet.getString("Name"),
+                        resultSet.getString("Continent"),
+                        resultSet.getString("Region")));
             }
+
+            System.out.println(countries.size());
+
         } catch (SQLException exception) {
             helper.showErrorMessage(exception);
         } finally {
