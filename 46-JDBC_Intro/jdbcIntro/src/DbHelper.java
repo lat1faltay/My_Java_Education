@@ -17,5 +17,4 @@ public class DbHelper {
         System.out.println("Error code: " + exception.getErrorCode());
     }
 
-
 }

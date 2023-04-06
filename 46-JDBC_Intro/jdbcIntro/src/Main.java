@@ -1,6 +1,7 @@
 import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 public class Main {
 
@@ -9,15 +10,24 @@ public class Main {
         Connection connection = null;
         DbHelper helper = new DbHelper();
 
-        try{
-           connection = helper.getConncetion();
-            System.out.println("Bağlantı başarılı");
-        }catch (SQLException exception){
+        Statement statement = null;
+        ResultSet resultSet;
+
+        try {
+            connection = helper.getConncetion();
+            statement = connection.createStatement();
+            resultSet = statement.executeQuery("select Code,Name,Continent,Region from country");
+            while(resultSet.next()){
+                System.out.println(resultSet.getString("Name"));
+            }
+        } catch (SQLException exception) {
             helper.showErrorMessage(exception);
-        }finally {
+        } finally {
             connection.close();
             System.out.println("Bağlantı bitti");
         }
 
     }
+
+
 }
