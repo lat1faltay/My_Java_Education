@@ -12,6 +12,7 @@ public class Main {
         }else{
             System.out.println("Sayı tektir");
         }
+        System.out.println();
 
     }
 }
