@@ -1,5 +1,6 @@
 import java.sql.*;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Main {
 
@@ -13,15 +14,11 @@ public class Main {
 
         try {
             connection = helper.getConncetion();
-            String sql = "insert into city(Name,CountryCode,District,Population) values(?,?,?,?)";
+            String sql = "update city set population=3400 where id = ?";
             statement = connection.prepareStatement(sql);
-            statement.setString(1,"LATİF");
-            statement.setString(2,"TUR");
-            statement.setString(3,"TURKEY");
-            statement.setInt(4,99);
-
+            statement.setInt(1,4082);
             int result = statement.executeUpdate();
-            System.out.println("Kayıt eklendi");
+            System.out.println("Kayıt güncellendi");
         } catch (SQLException exception) {
             helper.showErrorMessage(exception);
         } finally {
@@ -60,6 +57,33 @@ public class Main {
         } finally {
             connection.close();
             System.out.println("Bağlantı bitti");
+        }
+    }
+
+    public static void insertData() throws SQLException {
+        Connection connection = null;
+        DbHelper helper = new DbHelper();
+
+        PreparedStatement statement = null;
+        ResultSet resultSet;
+
+        try {
+            connection = helper.getConncetion();
+            String sql = "insert into city(Name,CountryCode,District,Population) values(?,?,?,?)";
+            statement = connection.prepareStatement(sql);
+            statement.setString(1,"LATİF");
+            statement.setString(2,"TUR");
+            statement.setString(3,"TURKEY");
+            statement.setInt(4,99);
+
+            int result = statement.executeUpdate();
+            System.out.println("Kayıt eklendi");
+        } catch (SQLException exception) {
+            helper.showErrorMessage(exception);
+        } finally {
+            statement.close();
+            connection.close();
+            System.out.println("Bağlantı kapandı");
         }
     }
 
