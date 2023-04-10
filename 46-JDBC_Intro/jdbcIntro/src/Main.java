@@ -1,13 +1,39 @@
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.ArrayList;
 
 public class Main {
 
     public static void main(String[] args) throws SQLException {
 
+        Connection connection = null;
+        DbHelper helper = new DbHelper();
+
+        PreparedStatement statement = null;
+        ResultSet resultSet;
+
+        try {
+            connection = helper.getConncetion();
+            String sql = "insert into city(Name,CountryCode,District,Population) values(?,?,?,?)";
+            statement = connection.prepareStatement(sql);
+            statement.setString(1,"LATİF");
+            statement.setString(2,"TUR");
+            statement.setString(3,"TURKEY");
+            statement.setInt(4,99);
+
+            int result = statement.executeUpdate();
+            System.out.println("Kayıt eklendi");
+        } catch (SQLException exception) {
+            helper.showErrorMessage(exception);
+        } finally {
+            statement.close();
+            connection.close();
+            System.out.println("Bağlantı kapandı");
+        }
+
+
+    }
+
+    public static void selectDemo() throws SQLException {
         Connection connection = null;
         DbHelper helper = new DbHelper();
 
@@ -35,8 +61,6 @@ public class Main {
             connection.close();
             System.out.println("Bağlantı bitti");
         }
-
     }
-
 
 }
