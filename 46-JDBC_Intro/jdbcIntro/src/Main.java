@@ -14,11 +14,11 @@ public class Main {
 
         try {
             connection = helper.getConncetion();
-            String sql = "update city set population=3400 where id = ?";
+            String sql = "delete from city where id = ?";
             statement = connection.prepareStatement(sql);
-            statement.setInt(1,4082);
+            statement.setInt(1,4084);
             int result = statement.executeUpdate();
-            System.out.println("Kayıt güncellendi");
+            System.out.println("Kayıt silindi");
         } catch (SQLException exception) {
             helper.showErrorMessage(exception);
         } finally {
@@ -26,8 +26,6 @@ public class Main {
             connection.close();
             System.out.println("Bağlantı kapandı");
         }
-
-
     }
 
     public static void selectDemo() throws SQLException {
@@ -78,6 +76,29 @@ public class Main {
 
             int result = statement.executeUpdate();
             System.out.println("Kayıt eklendi");
+        } catch (SQLException exception) {
+            helper.showErrorMessage(exception);
+        } finally {
+            statement.close();
+            connection.close();
+            System.out.println("Bağlantı kapandı");
+        }
+    }
+
+    public static void updateData() throws SQLException {
+        Connection connection = null;
+        DbHelper helper = new DbHelper();
+
+        PreparedStatement statement = null;
+        ResultSet resultSet;
+
+        try {
+            connection = helper.getConncetion();
+            String sql = "update city set population=3400 where id = ?";
+            statement = connection.prepareStatement(sql);
+            statement.setInt(1,4082);
+            int result = statement.executeUpdate();
+            System.out.println("Kayıt güncellendi");
         } catch (SQLException exception) {
             helper.showErrorMessage(exception);
         } finally {
