@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        /*
         Scanner scan = new Scanner(System.in);
         System.out.print("Kaç saat kalındı: ");
         int saat = scan.nextInt();
@@ -16,6 +17,13 @@ public class Main {
 
         System.out.println("ödemeniz gereken toplam fiyat: " + price);
 
+
+         */
+        int candies[] = {1,2,3,4,5};
+
+        for(int i = 0; i < candies.length; i++){
+            System.out.println(candies[i]);
+        }
 
     }
 }
