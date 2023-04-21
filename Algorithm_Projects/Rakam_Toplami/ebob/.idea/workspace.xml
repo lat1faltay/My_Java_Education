@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80123019-7b86-4900-85d6-f85ca5daa0c0" name="Changes" comment="" />
+    <list default="true" id="b224c6c9-cad8-4c5e-9af5-ac01e09886f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../rakamToplami/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rakamToplami/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2Of2K38PCRJgvP9TtugyexyiaTt" />
+  <component name="ProjectId" id="2Ok2T1YcmpOKv06EMDQfWIhZdwz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,17 +20,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Development/java_edu/Algorithm_Projects/ebob"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80123019-7b86-4900-85d6-f85ca5daa0c0" name="Changes" comment="" />
-      <created>1681937249163</created>
+      <changelist id="b224c6c9-cad8-4c5e-9af5-ac01e09886f2" name="Changes" comment="" />
+      <created>1682090263759</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681937249163</updated>
+      <updated>1682090263759</updated>
     </task>
     <servers />
   </component>
