@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Boyunuzu girin(cm) : ");
         double b = scanner.nextDouble();
 
-        System.out.print("Kilonuzu girin(kg) : ");
+        System.out.print("Kilonuzu girin(cm) : ");
         double k = scanner.nextDouble();
 
 
